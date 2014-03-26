@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="false" key="J2EE_EXPORT_OVERWRITE"/>
+	<item value="true" key="J2EE_EXPORT_SOURCE"/>
+	<list key="J2EE_IMPORT_null">
+		<item value="C:\apache-tomcat-7.0.50\webapps\IBM\IBM2.war"/>
+		<item value="E:\SL314_第一次分享\03_Servlet_範例及資源_for_Eclipse_WTP\SL314.war"/>
+	</list>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\Documents and Settings\java\桌面\SL314.war"/>
+		<item value="C:\apache-tomcat-7.0.50\webapps\IBM3.war"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v7.0"/>
+	</list>
+</section>

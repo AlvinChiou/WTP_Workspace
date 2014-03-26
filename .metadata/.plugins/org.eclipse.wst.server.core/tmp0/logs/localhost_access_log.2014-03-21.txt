@@ -1,0 +1,6 @@
+127.0.0.1 - - [21/Mar/2014:17:48:10 +0800] "GET / HTTP/1.1" 200 1130
+127.0.0.1 - - [21/Mar/2014:17:48:14 +0800] "GET /SL314/PrimeSearcher1 HTTP/1.1" 200 82
+127.0.0.1 - - [21/Mar/2014:17:54:55 +0800] "GET /SL314/PrimeSearcher1 HTTP/1.1" 200 82
+127.0.0.1 - - [21/Mar/2014:20:06:53 +0800] "GET /SL314/servlet/servlet_examples.GuestBookServlet HTTP/1.1" 404 1045
+127.0.0.1 - - [21/Mar/2014:20:15:20 +0800] "GET / HTTP/1.1" 200 1130
+127.0.0.1 - - [21/Mar/2014:20:15:21 +0800] "GET /Labs/servlet/LoadOnStartup.ScheduleServlet HTTP/1.1" 404 1035

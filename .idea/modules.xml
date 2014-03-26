@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EchoServer/EchoServer.iml" filepath="$PROJECT_DIR$/EchoServer/EchoServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Formaction/Formaction.iml" filepath="$PROJECT_DIR$/Formaction/Formaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IBM2/IBM2.iml" filepath="$PROJECT_DIR$/IBM2/IBM2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReferenceSource/ReferenceSource.iml" filepath="$PROJECT_DIR$/ReferenceSource/ReferenceSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" filepath="$PROJECT_DIR$/RemoteSystemsTempFiles/RemoteSystemsTempFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SL314/SL314.iml" filepath="$PROJECT_DIR$/SL314/SL314.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servers/Servers.iml" filepath="$PROJECT_DIR$/Servers/Servers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrainTicket/TrainTicket.iml" filepath="$PROJECT_DIR$/TrainTicket/TrainTicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebClient/WebClient.iml" filepath="$PROJECT_DIR$/WebClient/WebClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pkg01/pkg01.iml" filepath="$PROJECT_DIR$/pkg01/pkg01.iml" />
+    </modules>
+  </component>
+</project>
+
